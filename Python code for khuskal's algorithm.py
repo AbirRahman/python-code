@@ -68,7 +68,7 @@ g.add_edge(2, 3, 4)
 
 g.KruskalMST()
 
-
+------------------------------------------
 // output: Following are the edges in the constructed MST
 2 - 3: 4
 0 - 3: 5
