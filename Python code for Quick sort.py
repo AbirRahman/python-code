@@ -18,4 +18,5 @@ array = [64, 25, 12, 22, 11]
 quick_sort(array, 0, len(array) - 1)
 print("Sorted array:", array)
 
+--------------
 // Output: Sorted array: [11, 12, 22, 25, 64]
